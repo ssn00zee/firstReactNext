@@ -28,7 +28,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Dynamic Content Design</a>
+          Welcome to <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Dynamic Content Design</a>
         </h1>
 
         <p className={styles.description}>
