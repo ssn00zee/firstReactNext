@@ -4,7 +4,7 @@ export default function boiler(){
     return <div>
         <h1>About Me</h1>
 
-        <div class='school'>
+        <div>
 
         <h2>School</h2>
             <p>
